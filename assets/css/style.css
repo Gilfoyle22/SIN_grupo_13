@@ -1,0 +1,40 @@
+.navbar-brand{
+	font-size: 1.2em;
+}
+.card-header,.card-footer{
+	padding: .5rem .75rem;
+	font-weight: bold;
+}
+.form-control-sm{
+	height: calc(2rem + 2px);
+}
+.table td{
+	vertical-align: middle;
+	font-size: 0.80em;
+}
+.alert{
+	padding: 0.75rem 1rem;
+}
+ul{
+	margin: 0;
+}
+.bg-img{
+	background-color: rgba(0,0,0,0.5);
+	background-blend-mode: multiply;
+	background-image: url("../img/federal.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.btn{
+	padding: 0.30rem 0.6rem;
+}
+
+.badge-secondary{
+	color: #fff;
+	background-color: #607D8B;
+}
+
+th{
+	vertical-align: middle !important;
+}
