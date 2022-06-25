@@ -1,0 +1,8 @@
+Ing. Orrego, 
+Le adjunto mi trabajo final del curso de SIN y me parece importante indicarle algunas cosas para que pueda revisarnos el trabajo sin complicaciones. 
+-	La base de datos está almacenada en una carpeta llamada “Base de datos”, esta ya está lista para ser importada a phpmyadmin (no es necesario crearla antes).
+-	El trabajo lo he estructurado con el patrón de diseño MVC, esto lo hicimos ya que la mayoría de nuestros integrantes ha llevado el curso de POO y esta estructura se adapta perfecto para desarrollar nuestro trabajo orientado a objetos, además de que es mucho más ordenado y cuenta con mayor documentación.
+-	Inicialmente habíamos planeado trabajar de manera virtual a través de zoom para evitar reunirnos, sin embargo, mis compañeros no tenían buenas computadoras para poder desarrollar el trabajo sin problemas, por lo que optamos por desarrollarlo en una sola computadora reuniéndonos en la universidad, es por esto que en el repositorio solo observará que todo el proyecto ha sido desarrollado por una sola persona.
+-	Se que usted especifico la forma en como debíamos enviar el trabajo estableciendo 2 archivos predeterminados “config” y “.htaccess” pero en nuestro caso hemos seguido varios tutoriales para aprender php orientado a objetos y los archivos están algo distintos, en confi están los datos de la base de datos y en .htacces es para quitarle los permisos de acceder a través de la url al resto de carpetas.
+-	El archivo config se encuentra en la carpeta core (es donde se confugura las variables de la base de datos).
+Espero no tenga problemas al momento de revisarnos y gracias por su tiempo. 
